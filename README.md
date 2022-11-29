@@ -1,6 +1,6 @@
-# SimpleLogin-Csharp
-Just a simple login desing made in winforms using guna.ui2.
+# LandingPage-Animated
+Just a simple landing page desing.
 
 <p align='center'>
-  <img align="center" src="https://media.discordapp.net/attachments/1042270745377652851/1045485105189224578/image.png" />
+  <img align="center" src="https://media.discordapp.net/attachments/1042270745377652851/1047027144234106880/image.png?width=1342&height=683" />
 </p>
